@@ -1,0 +1,4 @@
+.env
+genadi_memory.json
+__pycache__/
+*.pyc
